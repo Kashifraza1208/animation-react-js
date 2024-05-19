@@ -1,0 +1,40 @@
+/* styles.css */
+
+.transform-website {
+  background: linear-gradient(to right, #ff8c00 30%, #6a00ff 50%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  z-index: 1;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #ff8c00, #6a00ff 30%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  z-index: 1;
+}
+
+.browser-gradient {
+  background: linear-gradient(to bottom, #0e0720 20%, #201930 70%);
+  z-index: 1;
+}
+
+.card-gradient {
+  background: linear-gradient(to bottom, #0e0720 20%, #201930 40%);
+  z-index: 1;
+}
+
+.cardItem-gradient {
+  background: linear-gradient(to bottom, #0e0720 10%, #201930 60%);
+  z-index: 1;
+}
+
+.button-gradient-purchase {
+  background: linear-gradient(to right, #5e11ff 35%, #ff8c00);
+  z-index: 1;
+}
+
+.footer-gradient {
+  background: linear-gradient(to right, #ca740c 0%, #5e11ff);
+  z-index: 999999999999999999999999999999999999999999999999999999;
+}
